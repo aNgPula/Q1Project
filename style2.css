@@ -1,0 +1,135 @@
+body{
+	background-image: url(https://img.freepik.com/premium-photo/colorful-pink-flowers-cosmos-garden-background-beautiful-cosmos-flower-nature_73523-3105.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-attachment:fixed
+}
+
+.Con2{
+		justify-content: center;
+		word-spacing: 280px;
+		background-color: #fff6de;
+		height: 30px;
+		color: #d14173;
+		font-family: Yu Gothic;
+		font-size: 15px
+}
+
+.Con3{
+	background-image: url(https://img.freepik.com/premium-photo/many-pink-roses-forming-wall-roses_115919-35546.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	color: #fff6de;
+	height: 100px;
+	font-family: Yu Gothic;
+	font-size: 15px;
+	border: 5px dotted #fff6de;
+}
+
+.About{
+	background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20230415/pngtree-hd-pastel-pink-gold-marble-background-image_2440700.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: 5px dotted #fff6de;
+	font-family: Yu Gothic;
+	font-size: 15px
+}
+
+.Con4{
+	background-color: #fff6de;
+	background-size: cover;
+	color: #ad215b;
+	border: 5px dotted #d14173;
+	font-family: Yu Gothic;
+	font-size: 15px
+}
+
+.Con5{
+		display: flex;
+		column-gap: 20px;
+		justify-content: center;
+	}
+
+.Con6{
+	background-color: #fff6de;
+	background-size: cover;
+	color: #ad215b;
+	border: 5px dotted #d14173;
+	font-family: Yu Gothic;
+	font-size: 15px
+}
+
+.Con7{
+		display: flex;
+		column-gap: 20px;
+		justify-content: center;
+	}
+p{
+	text-align: center;
+	color: #d14173;
+	font-family: Yu Gothic;
+	font-size: 15px
+
+}
+
+h4{
+	text-align: center;
+	font-family: Yu Gothic;
+	font-size: 15px
+}
+
+.Con8{
+		display: flex;
+		column-gap: 20px;
+		justify-content: center;
+	}
+
+.Con9{
+	background-color: #fff6de;
+	background-size: cover;
+	color: #ad215b;
+	border: 5px dotted #d14173;
+	font-family: Yu Gothic;
+	font-size: 15px
+}
+
+
+.Form{
+	background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20230415/pngtree-hd-pastel-pink-gold-marble-background-image_2440700.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 1100px;
+	padding: 15px;
+	margin: auto;
+	box-shadow: 2px 2px 10px rgba(0,0,0, 0.8);
+	border:5px dotted #ffedd1;
+	color: #ffedd1;
+	font-family: Yu Gothic;
+	font-size: 15px
+
+}
+
+img{
+	border-radius: 10px;
+}
+
+#name{
+	background-color: #ffedd1;
+	color: #d14173;
+	border-radius: 10px;
+	font-weight: bolder;
+}
+
+#why{
+	background-color: #ffedd1;
+	color: #d14173;
+	border-radius: 10px;
+}
+
+#submit{
+	background-color: #d14173;
+	color: #ffedd1;
+	border-radius: 10px;
+}
